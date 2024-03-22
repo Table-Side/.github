@@ -10,4 +10,4 @@ Look no further than Tableside, a order management system where your customers c
 
 Frontend: Flutter
 
-Backend: Express.js, Prisma, Passport, Apache APISIX, etcd
+Backend: Express.js, Prisma, Passport, Apache APISIX, etcd, Keycloak
