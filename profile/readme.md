@@ -2,11 +2,14 @@
 
 Hi 👋
 
-Tired of customers calling your staff over to order and not knowing what they want?
-Look no further than Tableside, a order management system where your customers can serve themselves and save you the hassle!
+We're Tableside, an order management system that enables your customers to order right from the table to the kitchen.
+We've open sourced our codebase for you to look at the magic that makes our product work!
 
-## Stack
+## Tech Stack
 
-Frontend: Flutter
+Authentication: [Stack](https://stack-auth.com)
 
-Backend: Express.js, Prisma, Apache APISIX, Keycloak
+Frontend: [Next.js](https://nextjs.org)
+
+Backend: [Express.js](https://expressjs.com) with [Mikro ORM](https://mikro-orm.io)
+
